@@ -1,0 +1,15 @@
+Package: newPackage
+Type: Package
+Title: Just for learning how to create R package
+Version: 0.1.0
+Authors@R: 
+    person("Xin", "Liu", email = "13912924794@163.com", role = c("aut", "cre"))
+Description: Just for learning how to create R package
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+NeedsCompilation: no
+Packaged: 2026-05-21 09:49:04 UTC; LIUXIN
+Author: Xin Liu [aut, cre]
+Maintainer: Xin Liu <13912924794@163.com>
